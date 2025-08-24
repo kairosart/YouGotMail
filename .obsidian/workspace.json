@@ -11,15 +11,10 @@
             "id": "ef33df5b7e2d6168",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXPLOITATION/Reverse Shell.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Reverse Shell"
+              "title": "New tab"
             }
           },
           {
@@ -28,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRIVILEGE ESCALATION/Sing user privileges.md",
+                "file": "ENUMERATION/Web server.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sing user privileges"
+              "title": "Web server"
             }
           },
           {
@@ -43,32 +38,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ENUMERATION/Nmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Nmap"
             }
           },
           {
-            "id": "608fa910a3bd66dc",
+            "id": "d285428726c27836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRIVILEGE ESCALATION/Sing user privileges.md",
+                "file": "ENUMERATION/Ports 25 and 587.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sing user privileges"
+              "title": "Ports 25 and 587"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "ENUMERATION/Ports 25 and 587.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Ports 25 and 587"
             }
           },
           {
@@ -280,11 +275,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "3f03c7ee3b1ae88a",
+  "active": "dff4c984d79ec35a",
   "lastOpenFiles": [
+    "images/Ports 25 and 587-20250824205731053.webp",
+    "images/Ports 25 and 587-20250824205553180.webp",
+    "ENUMERATION/Web server.md",
+    "ENUMERATION/Ports 25 and 587.md",
+    "images/Web server-20250824200008349.webp",
+    "images/Ports 25 and 587-20250824204235261.webp",
+    "images/index-20250822195603362.webp",
+    "images/Nmap-20250822201410758.webp",
+    "ENUMERATION/Nmap.md",
+    "index.md",
+    "ENUMERATION",
     "README.md",
     "images",
-    "images/index-20250822195603362.webp",
     "PRIVILEGE ESCALATION/Sing user privileges.md",
     "PRIVILEGE ESCALATION/Getting root.md",
     "PWND/Find the passwords.md",
@@ -292,9 +297,7 @@
     "EXPLOITATION/SMB testing.md",
     "ENUMERATION/Smb.md",
     "ENUMERATION/FTP Server.md",
-    "ENUMERATION/Web server.md",
     "ENUMERATION/Ports under 1024.md",
-    "index.md",
     "docs/lib/metadata.json",
     "docs/lib/media/6155340132a851f6089e.svg",
     "docs/lib/media",
@@ -304,15 +307,10 @@
     "docs/lib/fonts/454577c22304619db035.ttf",
     "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
     "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
     "docs/images/Web server-20250821192721494.webp",
     "docs/images/Web server-20250821192430750.webp",
     "docs/images/Web server-20250820205428329.webp",
     "docs/images/Users password-20250821200806508.webp",
-    "docs/images/Smb-20250820194949161.webp",
-    "docs/images/SMB testing-20250820203936709.webp",
-    "docs/images/Sing user privileges-20250822122551826.webp",
-    "docs/images/Sing user privileges-20250822122401911.webp",
     "ENUMERATION/Web Server.md",
     "EXPLOITATION/Enumeration.md",
     "EXPLOITATION/Getting a shell and flag 2.md",
