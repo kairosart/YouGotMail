@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "EXPLOITATION/SMB shares.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of SMB shares"
             }
           },
           {
@@ -280,31 +280,78 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "df3bc20a0bc6ed2b",
+  "floating": {
+    "id": "c49e3caeee044074",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6048b4176df938f6",
+        "type": "window",
+        "children": [
+          {
+            "id": "6ccea40e3bd7474c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78a323fd2571f3b5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "EXPLOITATION/SMB shares.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SMB shares"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 540,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "78a323fd2571f3b5",
   "lastOpenFiles": [
-    "README.md",
-    "index.md",
-    "EXPLOITATION/Force the username list against SMB.md",
-    "ENUMERATION/Ports 25 and 587.md",
-    "EXPLOITATION/Hmailserver.md",
     "EXPLOITATION/RDP.md",
-    "EXPLOITATION/SMB shares.md",
+    "EXPLOITATION/Hmailserver.md",
+    "EXPLOITATION/Force the username list against SMB.md",
     "ENUMERATION/Web server.md",
+    "ENUMERATION/Ports 25 and 587.md",
     "ENUMERATION/Nmap.md",
+    "index.md",
+    "docs/lib/metadata.json",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/images/Web server-20250824200008349.webp",
+    "docs/images/SMB shares-20250825192059685.webp",
+    "docs/images/RDP-20250825200427716.webp",
+    "docs/images/RDP-20250825193234301.webp",
+    "docs/images/Ports 25 and 587-20250824205731053.webp",
+    "docs/images/Ports 25 and 587-20250824205553180.webp",
+    "docs/images/Ports 25 and 587-20250824204235261.webp",
+    "docs/images/Nmap-20250822201410758.webp",
+    "docs/images/index-20250822195603362.webp",
+    "EXPLOITATION/SMB shares.md",
+    "README.md",
     "EXPLOITATION/Flag Submission.md",
-    "images/Hmailserver-20250825201548262.webp",
-    "images/RDP-20250825200427716.webp",
-    "images/RDP-20250825193234301.webp",
-    "images/SMB shares-20250825192059685.webp",
-    "images/Force the username list against SMB-20250825105741732.webp",
-    "EXPLOITATION",
-    "images/Ports 25 and 587-20250824205731053.webp",
-    "images/Ports 25 and 587-20250824205553180.webp",
-    "images/Web server-20250824200008349.webp",
-    "images/Ports 25 and 587-20250824204235261.webp",
-    "images/index-20250822195603362.webp",
-    "ENUMERATION",
-    "images",
     "PRIVILEGE ESCALATION/Sing user privileges.md",
     "PRIVILEGE ESCALATION/Getting root.md",
     "PWND/Find the passwords.md",
@@ -313,13 +360,6 @@
     "ENUMERATION/Smb.md",
     "ENUMERATION/FTP Server.md",
     "ENUMERATION/Ports under 1024.md",
-    "docs/lib/metadata.json",
-    "docs/lib/media",
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
     "ENUMERATION/Web Server.md",
     "EXPLOITATION/Enumeration.md",
     "EXPLOITATION/Getting a shell and flag 2.md",

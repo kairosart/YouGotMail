@@ -28,7 +28,7 @@
   "addRSSFeed": true,
   "siteURL": "",
   "authorName": "",
-  "vaultTitle": "Reset",
+  "vaultTitle": "You Got Mail",
   "exportPreset": "documents",
   "openAfterExport": true,
   "graphAttractionForce": 1,
@@ -43,14 +43,11 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/emi/Documents/obsidian/AllSignsPoint2Pwnage/docs",
+  "exportPath": "/home/emi/Documents/obsidian/YouGotMail/docs",
   "filesToExport": [
     [
       "ENUMERATION",
       "EXPLOITATION",
-      "images",
-      "PRIVILEGE ESCALATION",
-      "PWND",
       "index.md"
     ]
   ]
