@@ -86,3 +86,5 @@ cGFzc3dvcmQ=            ← You sent "password" (base64)
         
     - Nmap showed `AUTH LOGIN` correctly, and your netcat/swaks test confirms it.
 
+**Next step:** [[Force the username list against SMB]]
+

@@ -18,6 +18,9 @@ PORT     STATE SERVICE
 587/tcp  open  submission
 3389/tcp open  ms-wbt-server
 
+
+There's a port listening for SMB: **445**
+
 There two ports having to do with email.
 
 - **25 (SMTP)** → traditionally for server-to-server mail transfer.
